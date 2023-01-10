@@ -22,4 +22,5 @@ Keyboard : HP KU-0316<br>
 SSD : HikVision E100 128GB<br>
 HDD : Western Digital WD10EZRX-00D8PB0 1TB<br>
 
-Power Options : High Performance
+Power Options : High Performance<br>
+Coin Cell : CR2032 Lithium 3V
