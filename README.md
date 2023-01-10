@@ -2,11 +2,11 @@
 
 OS : Windows 11 Pro 21H2<br>
 Monitor : Dell P2314H 23" IPS (75Hz - Custom Resolution Utility)<br>
-Motherboard Model : DQ77MK<br>
+Motherboard : DQ77MK<br>
 Processor : Intel Core i5-3470 (3rd Gen)<br>
 Cores : 4<br>
 Threads : 4<br>
-Bus Specs : PCI-Express 3.0 (8.0 GT/s)<br>
+Bus : PCI-Express 3.0 (8.0 GT/s)<br>
 
 Ram : 16 GB DDR3<br>
 2x 4GB Kingston<br>
