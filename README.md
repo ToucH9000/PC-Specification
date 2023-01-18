@@ -1,4 +1,4 @@
-# PC-Specification
+# PC Specification
 
 OS : Windows 11 Pro 21H2<br>
 Monitor : Dell P2314H 23" IPS (75Hz - Custom Resolution Utility)<br>
