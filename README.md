@@ -1,6 +1,6 @@
 # PC Specification
 
-OS : Windows 11 Pro 22H2<br>
+OS : Windows 11 Pro 22H2 (22621.1105)<br>
 Monitor : Dell P2314H 23" IPS (75Hz - Custom Resolution Utility)<br>
 Motherboard : DQ77MK<br>
 Processor : Intel Core i5-3470 (3rd Gen)<br>
