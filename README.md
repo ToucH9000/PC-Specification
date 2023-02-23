@@ -1,7 +1,7 @@
 # PC Specification
 
-OS : Windows 11 Pro 22H2 (22621.1265)<br>
-Monitor : Dell P2314H 23" IPS (75Hz - Custom Resolution Utility)<br>
+OS : Windows 11 Pro 22H2 [22621.1265](https://uupdump.net)<br>
+Monitor : Dell P2314H 23" IPS (75Hz - [Custom Resolution Utility](https://www.monitortests.com/download/cru/cru-1.5.2.zip))<br>
 Motherboard : DQ77MK<br>
 Processor : Intel Core i5-3470 (3rd Gen)<br>
 Cores : 4<br>
