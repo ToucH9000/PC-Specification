@@ -13,7 +13,7 @@ Ram : 16 GB DDR3<br>
 2x 4GB SK Hynix<br>
 
 GPU : Radeon RX 570 ARMOR 4G OC (Default Settings)<br>
-PSU : Veno Scorp 500W (80 Plus Bronze)<br>
+PSU : Veno Scorp 500W<br>
 
 HeadPhones : EKSA E1000<br>
 Mouse : Aigo Q60-M17001<br>
